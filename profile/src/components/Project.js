@@ -15,8 +15,10 @@ class Project extends React.Component {
                                     {proj.name}
                                 </div>
                                 <p className="project-style paragraph">
-                                    Discription: {proj.discription}
                                     <div className="App-link">{proj.link}</div>
+                                    <div>
+                                        Discription: {proj.discription}
+                                    </div>
                                 </p>
                             </div>
                         );

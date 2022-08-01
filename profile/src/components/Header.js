@@ -8,6 +8,8 @@ class Header extends React.Component {
         var name = data.name;
         var profession = data.profession;
         var email = data.email;
+        var phone = data.phone;
+        var location = data.location;
         return (<header className="App-header App-block-style"  >
             <div>
                 <img src={profilePic} alt="jay" className="App-profile" />
@@ -22,6 +24,12 @@ class Header extends React.Component {
                 </div>
                 <div>
                     {email}
+                </div>
+                <div>
+                    {location}
+                </div>
+                <div>
+                    {phone}
                 </div>
             </p>
         </header>);

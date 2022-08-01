@@ -2,7 +2,9 @@
     "header": {
         "name": "Jay Patel",
         "email": "jaypsofteng@gmail.com",
-        "profession": "Software Developer"
+        "profession": "Software Developer",
+        "location": "Vancouver, BC",
+        "phone": "+1(431)999-0758"
     },
     "profile": {
         "details": "I am an organized, focused, dedicated, motivated, intelligent, productive and ambitious professional software engineer. I am interested in working with experienced professionals within a team and contribute to the success of a dynamic project development. I am looking for a long-term position."
@@ -10,22 +12,22 @@
     "experience": [
         {
             "jobTitle": "Software Developer, Pollard Banknote LTD",
-            "jobTimeline": "March 2021 - Current, 1.3 year",
+            "jobTimeline": "March 2021 - Current",
             "jobDiscription": [
-                "Developing new features for existing infrastructure, content and process-oriented proprietary desktop application using Java for full-stack application development using Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, JavaScript. Addressing bug fixes and processes for workflow with regards to software systems and focusing on security, integrity, robustness, and complexity of different software requirements and features. Provided API driven back-end micro-services using Java Spring."
+                "Developing new features for existing infrastructure, content and process-oriented proprietary desktop application. Utilizing Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, JavaScript for full-stack application development. Addressing bug fixes and processes for workflow with regards to software systems. Focusing on security, integrity, robustness, and complexity of various software apllications and features. Using Java Spring to provide API driven back-end micro-services."
             ]
         },
         {
             "jobTitle": "Programmer Analyst, Pollard Banknote LTD",
-            "jobTimeline": "Feb 2020 - March 2021, 1.1 year",
+            "jobTimeline": "Feb 2020 - March 2021",
             "jobDiscription": [
-                "Developed complex data structures and algorithms for data generation of lottery tickets. Maintained, developed, debugged, and tested complex code base in C++, C. Developed deeper understanding of performance and production-oriented software. Worked as a part of team to efficiently manage and contribute to deadline driven development. Analyzed data of various complexity and successfully fixed issues with respect to data integrity, data distribution, and correctness."
+                "Developed complex data structures and algorithms for data generation of lottery tickets. Maintained, developed, debugged, and tested complex code base in C++, C. Developed deeper understanding of performance and production-oriented software. Worked as a part of team to efficiently manage and contribute to deadline driven development. Analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
             ]
         }
     ],
     "education": [
         {
-            "discription": "Full-Stack software development diploma from MITT, Manitoba, Canada",
+            "discription": "Diploma in Full-Stack Software Development from MITT, Manitoba, Canada",
             "timeLine": "2019-2020"
         },
         {
@@ -39,17 +41,17 @@
     "projects": [
         {
             "name": "Book-Tracker",
-            "discription": "This project is a web application for digital library system which helps with keeping track of books. You can save the books that you want to read into your profile, and keep track of the reading list for which books you would want to read, books you are currently reading and books that you have already read.",
+            "discription": "This project is a web application for digital library system which helps to keep track of books. This application will conviniently keep track of any books the user wants to read, is currently reading, or has read. This project is built using React.js and uses open sourced back end API.",
             "link": "Code: https://github.com/Jaypsofteng/Books-Tracker.git"
         },
         {
             "name": "Restaurant-Review",
-            "discription": "This project is a web-based restaurant finder which helps finding restaurants. It shows you best restaurants near your location on a map and showcases comments of previous visitors for that restaurant.",
+            "discription": "This project is a web-based restaurant finder. It shows the best restaurants near the users's location on a map and showcases comments of previous visitors for that restaurant.",
             "link": "Code: https://github.com/allTheRath/Restaurant-Review"
         },
         {
             "name": "Chess",
-            "discription": "Game of Chess is GitHub hosted website and can be played online. It is a multiplayer game. You can open it on the browser and can play with another friend.",
+            "discription": "Game of Chess is a multiplayer GitHub hosted website and can be played online. It is built using pure JavaScript to provide logic to the game of chess.",
             "link": "Code: https://github.com/allTheRath/chess"
         }
     ]
