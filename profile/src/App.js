@@ -17,7 +17,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Animation />
+        {/* <Animation /> */}
         <div className="App">
           <Header headerData={this.state.header} profileData={this.state.profile} />
           <Education educationData={this.state.education} />

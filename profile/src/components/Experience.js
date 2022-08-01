@@ -9,7 +9,7 @@ class Experience extends React.Component {
                 </div>
                 {this.props.experienceData.map(exp => {
                     return <div className="component" >
-                        <div className="component-header" >
+                        <div className="component-header">
                             <span>
                                 {exp.jobTitle}
                             </span>
