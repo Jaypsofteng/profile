@@ -5,7 +5,7 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Tools from './components/Tools';
 import Project from './components/Project';
-import Animation from './components/Animation';
+/* import Animation from './components/Animation';*/
 import data from './static/application-text.json';
 
 class App extends React.Component {
