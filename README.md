@@ -1,2 +1,1 @@
-# profile
-About me
+#[About me](https://jaypsofteng.github.io/profile/)
