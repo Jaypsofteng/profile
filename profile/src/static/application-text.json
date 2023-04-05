@@ -1,7 +1,7 @@
 {
     "header": {
         "name": "Jay Patel",
-        "email": "jaypsofteng@gmail.com",
+        "email": "jaypsofteng@hotmail.com",
         "profession": "Software Developer",
         "location": "Vancouver, BC",
         "phone": "+1(431)999-0758"
@@ -11,15 +11,22 @@
     },
     "experience": [
         {
-            "jobTitle": "Software Developer, Pollard Banknote LTD",
-            "jobTimeline": "March 2021 - Current",
+            "jobTitle": "Software Developer 2, Richardsons International LTD",
+            "jobTimeline": "November 2022 - March 2023",
             "jobDiscription": [
-                "Developing new features for existing infrastructure, content and process-oriented proprietary desktop application. Utilizing Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, JavaScript for full-stack application development. Addressing bug fixes and processes for workflow with regards to software systems. Focusing on security, integrity, robustness, and complexity of various software apllications and features. Using Java Spring to provide API driven back-end micro-services."
+                "Developed end to end, full-stack features for organisation's internal website, which handles agriculture business usecases. Used Java, Spring, Struts, Oracle SQL, PLSql, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, JavaScript for full-stack application development. Followed owasp security principles, SDLC life cycle and agile methodology while developing front-end and back-end features."
+            ]
+        },
+        {
+            "jobTitle": "Software Developer, Pollard Banknote LTD",
+            "jobTimeline": "March 2021 - November 2022",
+            "jobDiscription": [
+                "Developed new features for existing infrastructure, content and process-oriented proprietary desktop application. Utilizing Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, JavaScript for full-stack application development. Addressing bug fixes and processes for workflow with regards to software systems. Focusing on security, integrity, robustness, and complexity of various software apllications and features. Using Java Spring to provide API driven back-end micro-services."
             ]
         },
         {
             "jobTitle": "Programmer Analyst, Pollard Banknote LTD",
-            "jobTimeline": "Feb 2020 - March 2021",
+            "jobTimeline": "February 2020 - March 2021",
             "jobDiscription": [
                 "Developed complex data structures and algorithms for data generation of lottery tickets. Maintained, developed, debugged, and tested complex code base in C++, C. Developed deeper understanding of performance and production-oriented software. Worked as a part of team to efficiently manage and contribute to deadline driven development. Analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
             ]
@@ -27,32 +34,32 @@
     ],
     "education": [
         {
-            "discription": "Diploma in Full-Stack Software Development from MITT, Manitoba, Canada",
+            "discription": "Full-Stack Developer Diploma from MITT, Manitoba, Canada",
             "timeLine": "2019-2020"
         },
         {
-            "discription": "Bachelor's Degree in Computer Engineering from GTU, Gujarat, India",
+            "discription": "Bachelor's in Computer Engineering from GTU, Gujarat, India",
             "timeLine": "2013-2018"
         }
     ],
     "tools": [
-        "Java, Spring Framework, Hibernate, JPA, J2EE, Python, C++, C#, .NET Framework, Entity Framework, MySQL, SQL, PostgreSQL, TensorFlow, Swing Framework, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, HTML, DHTML, CSS, jQuery, PHP, Docker, Git, Jira, Jenkins, Nexus, Linux"
+        "Java, Spring Framework, Hibernate, JPA, J2EE, Python, C#, .NET, Entity Framework, MySQL, SQL, PostgreSQL, TensorFlow, Swing Framework, Struts Framework, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, HTML, DHTML, CSS, jQuery, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows"
     ],
     "projects": [
         {
             "name": "Book-Tracker",
             "discription": "This project is a web application for digital library system which helps to keep track of books. This application will conviniently keep track of any books the user wants to read, is currently reading, or has read. This project is built using React.js and uses open sourced back end API.",
-            "link": "Code: https://github.com/Jaypsofteng/Books-Tracker.git"
+            "link": "https://github.com/Jaypsofteng/Books-Tracker.git"
         },
         {
             "name": "Restaurant-Review",
             "discription": "This project is a web-based restaurant finder. It shows the best restaurants near the users's location on a map and showcases comments of previous visitors for that restaurant.",
-            "link": "Code: https://github.com/allTheRath/Restaurant-Review"
+            "link": "https://github.com/allTheRath/Restaurant-Review"
         },
         {
             "name": "Chess",
             "discription": "Game of Chess is a multiplayer GitHub hosted website and can be played online. It is built using pure JavaScript to provide logic to the game of chess.",
-            "link": "Code: https://github.com/allTheRath/chess"
+            "link": "https://github.com/allTheRath/chess"
         }
     ]
 }

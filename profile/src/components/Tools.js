@@ -8,10 +8,12 @@ class Tools extends React.Component {
                     Languages &amp; Tools
                 </div>
                 <div className="component" >
-                    <div className="component-header tools-style " >
+                    <div className="component-header tools-style" >
+                        <p className="paragraph">
                         {this.props.toolsData.map(tool => {
                             return (<span>{tool}</span>);
                         })}
+                        </p>
                     </div>
                 </div>
             </p>
