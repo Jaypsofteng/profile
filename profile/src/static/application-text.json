@@ -11,29 +11,37 @@
     },
     "experience": [
         {
-            "jobTitle": "Fullstack Engineer, Freelancing",
-            "jobTimeline": "March 2023 - Current",
+            "jobTitle": "Fullstack Engineer",
+            "company":"Freelancing",
+            "start": "March 2023",
+            "end":"Current",
             "jobDiscription": [
                 "As a freelance full stack engineer, I am developing web applications for multiple clients using React, NodeJS, TypeScript, MaterialUI, HTML5, CSS, JavaScript, AWS Cloud, Java, and Spring. In this role, I am responsible for creating user-friendly and responsive interfaces that delivered seamless user experiences. I am collaborating closely with clients to understand their needs and translate them into technical specifications. Through this work, I am sharpening my skills in project management, communication, and problem-solving."
             ]
         },
         {
-            "jobTitle": "Software Developer 2, Richardsons International",
-            "jobTimeline": "November 2022 - March 2023",
+            "jobTitle": "Software Developer 2",
+            "company":"Richardsons International",
+            "start": "November 2022",
+            "end":"March 2023",
             "jobDiscription": [
                 "As Software Developer 2, I worked on end-to-end, full-stack features for my organization's internal website, which manages agriculture business use cases. I utilized Java, Spring, Struts, Oracle SQL, Postgres SQL, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely."
             ]
         },
         {
-            "jobTitle": "Software Developer, Pollard Banknote",
-            "jobTimeline": "March 2021 - November 2022",
+            "jobTitle": "Software Developer",
+            "company":"Pollard Banknote",
+            "start": "March 2021",
+            "end":"November 2022",
             "jobDiscription": [
                 "As Software Developer, I developed new features for an existing infrastructure, content, and process-oriented proprietary desktop application. Throughout the development process, I utilized Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, and JavaScript for full-stack application development. Additionally, I addressed bug fixes and processes for workflow with regards to software systems. My focus was on ensuring the security, integrity, robustness, and complexity of various software applications and features. I also used Java Spring to supply API-driven back-end microservices."
             ]
         },
         {
-            "jobTitle": "Programmer Analyst, Pollard Banknote",
-            "jobTimeline": "February 2020 - March 2021",
+            "jobTitle": "Programmer Analyst",
+            "company":"Pollard Banknote",
+            "start": "February 2020",
+            "end":"March 2021",
             "jobDiscription": [
                 "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code base in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
             ]

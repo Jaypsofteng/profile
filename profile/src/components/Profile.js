@@ -8,7 +8,7 @@ class Profile extends React.Component {
             <p >
                 <Typography>
                     <p className="paragraph">
-                        <Typography>
+                        <Typography variant='body1'>
                         {details}
                         </Typography>
                     </p>

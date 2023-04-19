@@ -20,19 +20,19 @@ class Header extends React.Component {
             </span>
 
             <Typography className="App-header-text"  >
-                <Typography>
+                <Typography variant='subtitle1'>
                     {name}
                 </Typography>
-                <Typography>
+                <Typography variant='subtitle1'>
                     {profession}
                 </Typography>
-                <Typography>
+                <Typography variant='subtitle1'>
                     {email}
                 </Typography>
-                <Typography>
+                <Typography variant='subtitle1'>
                     {location}
                 </Typography>
-                <Typography>
+                <Typography variant='subtitle1'>
                     {phone}
                 </Typography>
             </Typography>

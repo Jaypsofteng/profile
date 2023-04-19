@@ -12,10 +12,10 @@ class Education extends React.Component {
                 <div className="component" >
                     {this.props.educationData.map(edu => {
                         return <div className="component-header">
-                            <Typography>
+                            <Typography variant='body1'>
                                 {edu.discription}
                             </Typography>
-                            <Typography>
+                            <Typography variant='body1'>
                                 {edu.timeLine}
                             </Typography>
                         </div>

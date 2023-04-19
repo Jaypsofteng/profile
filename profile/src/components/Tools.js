@@ -10,7 +10,7 @@ class Tools extends React.Component {
                 </Typography>
                 <div className="component" >
                     <div className="component-header tools-style" >
-                        <Typography className="paragraph">
+                        <Typography className="paragraph" variant='body1'>
                         {this.props.toolsData.map(tool => {
                             return (<Typography>{tool}</Typography>);
                         })}

@@ -6,22 +6,33 @@ class Experience extends React.Component {
     render() {
         return (
             <p className="App-block-style">
-                <Typography variant="h5" sx={{margin: 1}}className="App-tag-style">
+                <Typography variant="h5" sx={{ margin: 1 }} className="App-tag-style">
                     Experience
                 </Typography>
                 {this.props.experienceData.map(exp => {
                     return <div className="component" >
                         <div className="component-header">
-                            <Typography sx={{width: 400, textAlign: 'left'}}>
-                                {exp.jobTitle}
+                            <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                    {exp.jobTitle}
+                                </Typography>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                    {exp.company}
+                                </Typography>
                             </Typography>
-                            <Typography sx={{width: 250, textAlign: 'left'}}>
-                                {exp.jobTimeline}
+                            <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                    {exp.start}
+                                </Typography>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                    {exp.end}
+                                </Typography>
                             </Typography>
                         </div>
 
                         {exp.jobDiscription.map(discription => {
-                            return <Typography className="paragraph">{discription}</Typography>;
+                            return <Typography className="paragraph" variant='body1'>{discription}</Typography>;
                         })}
                     </div>;
                 })}
