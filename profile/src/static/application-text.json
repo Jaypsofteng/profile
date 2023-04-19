@@ -7,28 +7,35 @@
         "phone": "+1(431)999-0758"
     },
     "profile": {
-        "details": "I am an organized, focused, dedicated, motivated, intelligent, productive and ambitious professional software engineer. I am interested in working with experienced professionals within a team and contribute to the success of a dynamic project development. I am looking for a long-term position."
+        "details": "I am a highly organized, resolute, and motivated professional software engineer with extensive experience in full-stack development, algorithm design, and data analysis. I have a proven track record of delivering high-quality software solutions, focusing on security, performance, and reliability. I am committed to working collaboratively with cross-functional teams to achieve project success and drive business outcomes. I am seeking a long-term position where I can leverage my skills and experience to make meaningful contributions to the development of innovative software solutions."
     },
     "experience": [
+        {
+            "jobTitle": "Fullstack Engineer, Freelancing",
+            "jobTimeline": "March 2023 - Current",
+            "jobDiscription": [
+                "As a freelance full stack engineer, I am developing web applications for multiple clients using React, NodeJS, TypeScript, MaterialUI, HTML5, CSS, JavaScript, AWS Cloud, Java, and Spring. In this role, I am responsible for creating user-friendly and responsive interfaces that delivered seamless user experiences. I am collaborating closely with clients to understand their needs and translate them into technical specifications. Through this work, I am sharpening my skills in project management, communication, and problem-solving."
+            ]
+        },
         {
             "jobTitle": "Software Developer 2, Richardsons International LTD",
             "jobTimeline": "November 2022 - March 2023",
             "jobDiscription": [
-                "Developed end to end, full-stack features for organisation's internal website, which handles agriculture business usecases. Used Java, Spring, Struts, Oracle SQL, PLSql, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, JavaScript for full-stack application development. Followed owasp security principles, SDLC life cycle and agile methodology while developing front-end and back-end features."
+                "As Software Developer 2, I worked on end-to-end, full-stack features for my organization's internal website, which manages agriculture business use cases. I utilized Java, Spring, Struts, Oracle SQL, Postgres SQL, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely."
             ]
         },
         {
             "jobTitle": "Software Developer, Pollard Banknote LTD",
             "jobTimeline": "March 2021 - November 2022",
             "jobDiscription": [
-                "Developed new features for existing infrastructure, content and process-oriented proprietary desktop application. Utilizing Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, JavaScript for full-stack application development. Addressing bug fixes and processes for workflow with regards to software systems. Focusing on security, integrity, robustness, and complexity of various software apllications and features. Using Java Spring to provide API driven back-end micro-services."
+                "As Software Developer, I developed new features for an existing infrastructure, content, and process-oriented proprietary desktop application. Throughout the development process, I utilized Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, and JavaScript for full-stack application development. Additionally, I addressed bug fixes and processes for workflow with regards to software systems. My focus was on ensuring the security, integrity, robustness, and complexity of various software applications and features. I also used Java Spring to supply API-driven back-end microservices."
             ]
         },
         {
             "jobTitle": "Programmer Analyst, Pollard Banknote LTD",
             "jobTimeline": "February 2020 - March 2021",
             "jobDiscription": [
-                "Developed complex data structures and algorithms for data generation of lottery tickets. Maintained, developed, debugged, and tested complex code base in C++, C. Developed deeper understanding of performance and production-oriented software. Worked as a part of team to efficiently manage and contribute to deadline driven development. Analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
+                "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code base in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
             ]
         }
     ],
@@ -47,19 +54,29 @@
     ],
     "projects": [
         {
-            "name": "Book-Tracker",
-            "discription": "This project is a web application for digital library system which helps to keep track of books. This application will conviniently keep track of any books the user wants to read, is currently reading, or has read. This project is built using React.js and uses open sourced back end API.",
+            "name": "Digital Library System",
+            "discription": "I implemented this web application that efficiently manages a digital library. The application enables users to keep track of books they want to read, are currently reading, or have already read. To develop the application, I utilized React.js to create an intuitive user interface that allows for seamless navigation. Additionally, I incorporated an open-sourced back-end API to ensure scalability and sustainability.",
             "link": "https://github.com/Jaypsofteng/Books-Tracker.git"
         },
         {
-            "name": "Restaurant-Review",
-            "discription": "This project is a web-based restaurant finder. It shows the best restaurants near the users's location on a map and showcases comments of previous visitors for that restaurant.",
-            "link": "https://github.com/allTheRath/Restaurant-Review"
+            "name": "Webapp-Scheduler",
+            "discription": "I have designed and created a web application called Webapp-Scheduler, which facilitates efficient scheduling of courses and programs. This application enables users to perform CRUD operations for both programs and courses, and provides individual views for each. I implemented a calendar functionality that allows users to select holidays for the timeline, which enables the auto-allocation of programs and courses. In order to create a responsive and user-friendly front-end, I utilized Razor, Bootstrap, CSS, and JavaScript. For the back-end, I utilized C#, SQL, and LINQ to develop the necessary functionality and ensure data consistency. Overall, this project allowed me to demonstrate my skills in both front-end and back-end web development, as well as my ability to create practical solutions to complex problems.",
+            "link": "https://github.com/Jaypsofteng/Webapp-Scheduler.git"
         },
         {
-            "name": "Chess",
-            "discription": "Game of Chess is a multiplayer GitHub hosted website and can be played online. It is built using pure JavaScript to provide logic to the game of chess.",
-            "link": "https://github.com/allTheRath/chess"
+            "name": "Resume-Portal",
+            "discription": "I engineered an internship portal for Mitt College's Internship Program, which serves both students and employers. The project required me to create user profiles for students, employers, and instructors, and develop functionalities specific to each user type. I utilized Razor, Bootstrap, CSS, and JavaScript to create a responsive and user-friendly front-end, while utilizing C#, SQL, and LINQ for the back-end to ensure data consistency and develop necessary functionality. Students can sign up and apply for internships based on their programs, while employers can create internship postings and view a list of students that meet their internship requirements. Instructors have the ability to approve new students to their programs, add new employer profiles, and recommend internships by sending notifications to students and employers. Overall, this project allowed me to showcase my proficiency in full-stack web development and ability to create practical solutions to complex problems.",
+            "link": "https://github.com/Jaypsofteng/Resume-Portal.git"
+        },
+        {
+            "name": "Mind Game",
+            "discription": "Mind-game is a fun and challenging game that I designed to test and improve a player's memory and recall abilities. The game is composed of multiple levels, with each level containing a set of tiles that have different symbols on them arranged in a 4x4 grid. The player is given a few seconds to memorize the placement of the symbols when they click on the tiles, before they are hidden again. The objective of the game is to select 2 consecutive tiles with the same symbol, while completing the game before running out of life (stars). Mind-game also includes a scoring system that awards points based on the number of moves taken to complete the game. Overall, Mind-game is a challenging and entertaining game that tests a player's memory and concentration skills.",
+            "link": "https://jaypsofteng.github.io/Mind-Game/"
+        },
+        {
+            "name": "Chess Game",
+            "discription": "I developed a multiplayer online chess game that is hosted on GitHub and offers users a seamless and engaging gaming experience. I built the game entirely with JavaScript, which allowed me to showcase the power and versatility of this programming language. The game includes robust features such as game logic, multiplayer capabilities, and an intuitive user interface, all of which were designed with the goal of providing an immersive gaming experience.",
+            "link": "https://jaypsofteng.github.io/Chess/"
         }
     ]
 }
