@@ -1,22 +1,23 @@
 import React from "react";
+import Typography from '@mui/material/Typography';
 
 class Education extends React.Component {
 
     render() {
         return (
             <p className="App-block-style">
-                <div className="App-tag-style">
+                <Typography variant="h5" sx={{margin: 1}}className="App-tag-style">
                     Education
-                </div>
+                </Typography>
                 <div className="component" >
                     {this.props.educationData.map(edu => {
                         return <div className="component-header">
-                            <span>
+                            <Typography>
                                 {edu.discription}
-                            </span>
-                            <span>
+                            </Typography>
+                            <Typography>
                                 {edu.timeLine}
-                            </span>
+                            </Typography>
                         </div>
                     })}
                 </div>

@@ -111,11 +111,10 @@
   flex-direction: row;
   text-shadow: 1px 1px 1px #f3e5e5;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  margin: 2%;
   font-size: medium;
   text-indent: 1em;
   padding-block: inherit;
-  padding: 3em;
+  padding: 2em;
   text-align: justify;
   text-indent: 1em;
 }

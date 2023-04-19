@@ -1,6 +1,9 @@
 import React from 'react';
 import profilePic from '../images/my-pic.jpg';
 import Profile from './Profile';
+import Avatar from '@mui/material/Avatar';
+import Typography from '@mui/material/Typography';
+
 class Header extends React.Component {
 
     render() {
@@ -11,27 +14,28 @@ class Header extends React.Component {
         var phone = data.phone;
         var location = data.location;
         return (<header className="App-header App-block-style"  >
-            <div>
-                <img src={profilePic} alt="jay" className="App-profile" />
+            <span>
+                <Avatar alt="Jay" src={profilePic} sx={{ width: 150, height:150 }} />
                 <Profile profileData={this.props.profileData} />
-            </div>
-            <p className="App-header-text"  >
-                <div>
+            </span>
+
+            <Typography className="App-header-text"  >
+                <Typography>
                     {name}
-                </div>
-                <div>
+                </Typography>
+                <Typography>
                     {profession}
-                </div>
-                <div>
+                </Typography>
+                <Typography>
                     {email}
-                </div>
-                <div>
+                </Typography>
+                <Typography>
                     {location}
-                </div>
-                <div>
+                </Typography>
+                <Typography>
                     {phone}
-                </div>
-            </p>
+                </Typography>
+            </Typography>
         </header>);
     }
 }

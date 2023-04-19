@@ -7,6 +7,7 @@ import Tools from './components/Tools';
 import Project from './components/Project';
 /* import Animation from './components/Animation';*/
 import data from './static/application-text.json';
+import Typography from '@mui/material/Typography';
 
 class App extends React.Component {
   constructor(props) {
@@ -18,15 +19,15 @@ class App extends React.Component {
     return (
       <div>
         {/*<Animation />*/}
-        <div className="App">
+        <Typography className="App">
           <Header headerData={this.state.header} profileData={this.state.profile} />
           <Education educationData={this.state.education} />
           <body className="App-body">
             <Experience experienceData={this.state.experience} />
-            <Tools toolsData={this.state.tools} />
+            <Tools toolsData={this.state.tools} skillsData={this.state.skills} />
             <Project projectData={this.state.projects} />
           </body>
-        </div>
+        </Typography>
       </div>
     );
 

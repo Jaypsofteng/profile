@@ -1,19 +1,25 @@
 import React from "react";
+import Typography from '@mui/material/Typography';
 
 class Tools extends React.Component {
     render() {
         return (
             <p className="App-block-style">
-                <div className="App-tag-style">
-                    Languages &amp; Tools
-                </div>
+                <Typography variant="h5" sx={{margin: 1}} className="App-tag-style">
+                Technical Competencies &amp; Professional Skills
+                </Typography>
                 <div className="component" >
                     <div className="component-header tools-style" >
-                        <p className="paragraph">
+                        <Typography className="paragraph">
                         {this.props.toolsData.map(tool => {
-                            return (<span>{tool}</span>);
+                            return (<Typography>{tool}</Typography>);
                         })}
-                        </p>
+                        <Typography sx={{marginTop: 4}}></Typography>
+                        {this.props.skillsData.map(skill => {
+                            return (<Typography>{skill}</Typography>);
+                        })}
+                        </Typography>
+                        
                     </div>
                 </div>
             </p>

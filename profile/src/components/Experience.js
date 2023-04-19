@@ -1,25 +1,27 @@
 import React from "react";
+import Typography from '@mui/material/Typography';
+
 class Experience extends React.Component {
 
     render() {
         return (
             <p className="App-block-style">
-                <div className="App-tag-style">
+                <Typography variant="h5" sx={{margin: 1}}className="App-tag-style">
                     Experience
-                </div>
+                </Typography>
                 {this.props.experienceData.map(exp => {
                     return <div className="component" >
                         <div className="component-header">
-                            <span>
+                            <Typography sx={{width: 400, textAlign: 'left'}}>
                                 {exp.jobTitle}
-                            </span>
-                            <span>
+                            </Typography>
+                            <Typography sx={{width: 250, textAlign: 'left'}}>
                                 {exp.jobTimeline}
-                            </span>
+                            </Typography>
                         </div>
 
                         {exp.jobDiscription.map(discription => {
-                            return <span className="paragraph">{discription}</span>;
+                            return <Typography className="paragraph">{discription}</Typography>;
                         })}
                     </div>;
                 })}

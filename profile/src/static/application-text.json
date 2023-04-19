@@ -18,21 +18,21 @@
             ]
         },
         {
-            "jobTitle": "Software Developer 2, Richardsons International LTD",
+            "jobTitle": "Software Developer 2, Richardsons International",
             "jobTimeline": "November 2022 - March 2023",
             "jobDiscription": [
                 "As Software Developer 2, I worked on end-to-end, full-stack features for my organization's internal website, which manages agriculture business use cases. I utilized Java, Spring, Struts, Oracle SQL, Postgres SQL, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely."
             ]
         },
         {
-            "jobTitle": "Software Developer, Pollard Banknote LTD",
+            "jobTitle": "Software Developer, Pollard Banknote",
             "jobTimeline": "March 2021 - November 2022",
             "jobDiscription": [
                 "As Software Developer, I developed new features for an existing infrastructure, content, and process-oriented proprietary desktop application. Throughout the development process, I utilized Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, and JavaScript for full-stack application development. Additionally, I addressed bug fixes and processes for workflow with regards to software systems. My focus was on ensuring the security, integrity, robustness, and complexity of various software applications and features. I also used Java Spring to supply API-driven back-end microservices."
             ]
         },
         {
-            "jobTitle": "Programmer Analyst, Pollard Banknote LTD",
+            "jobTitle": "Programmer Analyst, Pollard Banknote",
             "jobTimeline": "February 2020 - March 2021",
             "jobDiscription": [
                 "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code base in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
@@ -51,6 +51,9 @@
     ],
     "tools": [
         "Java, Spring Framework, Hibernate, JPA, J2EE, Python, C#, .NET, Entity Framework, MySQL, SQL, PostgreSQL, TensorFlow, Swing Framework, Struts Framework, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, HTML, DHTML, CSS, jQuery, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows"
+    ],
+    "skills": [
+        "Strong work ethic, Dependable, Self-motivated, Attentive to detail, Effective time management, good teamwork and collaboration skills, Excellent communication skills, Adaptable and quick to learn, Analytical and strategic thinking, Creative problem solver, Customer-focused, Results-driven and goal oriented, Strong leadership and decision-making abilities, Flexibility and openness to new ideas, Ability to work well under pressure and tight deadlines"
     ],
     "projects": [
         {

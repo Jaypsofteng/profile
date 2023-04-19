@@ -1,14 +1,18 @@
 import React from "react";
+import Typography from '@mui/material/Typography';
+
 class Profile extends React.Component {
     render() {
         var details = this.props.profileData.details;
         return (
             <p >
-                <div>
+                <Typography>
                     <p className="paragraph">
+                        <Typography>
                         {details}
+                        </Typography>
                     </p>
-                </div>
+                </Typography>
             </p>);
     }
 
