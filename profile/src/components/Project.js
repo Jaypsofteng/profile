@@ -12,7 +12,7 @@ class Project extends React.Component {
                     {this.props.projectData.map(proj => {
                         return (
                             <div >
-                                <Typography className="component-header" variant="subtitle1" >
+                                <Typography className="component-header" variant="subtitle1" sx={{fontSize: 20}} >
                                     <u>{proj.name}</u>
                                 </Typography>
                                 <p className="project-style paragraph">

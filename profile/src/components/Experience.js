@@ -13,19 +13,19 @@ class Experience extends React.Component {
                     return <div className="component" >
                         <div className="component-header">
                             <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
-                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left', fontSize: 20 }}>
                                     {exp.jobTitle}
                                 </Typography>
-                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left', fontSize: 20 }}>
                                     {exp.company}
                                 </Typography>
                             </Typography>
                             <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
 
-                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left', fontSize: 19 }}>
                                     {exp.start}
                                 </Typography>
-                                <Typography variant="subtitle1" sx={{ textAlign: 'left' }}>
+                                <Typography variant="subtitle1" sx={{ textAlign: 'left', fontSize: 19 }}>
                                     {exp.end}
                                 </Typography>
                             </Typography>
