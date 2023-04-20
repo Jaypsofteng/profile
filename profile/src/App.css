@@ -95,8 +95,6 @@
 
 .project-style {
   flex-direction: row;
-  text-shadow: 1px 1px 1px #f3e5e5;
-  text-indent: 1em;
   padding-block: inherit;
   padding: 2em;
   text-align: justify;
