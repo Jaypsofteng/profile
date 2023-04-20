@@ -26,7 +26,6 @@
   display: flex;
   flex-direction: column;
   margin-right: 0.12em;
-  font-size: large;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   padding-top: 4rem;
   margin: 1%;
@@ -41,7 +40,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
 }
 
 
@@ -54,7 +52,6 @@
   border: 1px solid rgb(240, 238, 238);
   border-radius: 1em;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  font-size: large;
   text-align: justify;
   text-indent: 1em;
   width: 36em;
@@ -64,7 +61,6 @@
 
 .App-tag-style {
   font-weight: 400;
-  font-size: x-large;
 }
 
 .component {
@@ -81,24 +77,17 @@
   flex-direction: row;
   justify-content: space-between;
   margin: 0.75em;
-  font-size: medium;
 }
 
 .paragraph {
   text-shadow: 1px 1px 1px #f3e5e5;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   margin: 0.25em;
-  font-size: medium;
   text-indent: 1em;
   padding-block: inherit;
   padding: 3em;
   text-align: justify;
 }
 
-.tools-style {
-  font-size: medium;
-
-}
 
 .project {
   display: flex;
@@ -109,8 +98,6 @@
 .project-style {
   flex-direction: row;
   text-shadow: 1px 1px 1px #f3e5e5;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  font-size: medium;
   text-indent: 1em;
   padding-block: inherit;
   padding: 2em;

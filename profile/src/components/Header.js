@@ -14,11 +14,8 @@ class Header extends React.Component {
         var phone = data.phone;
         var location = data.location;
         return (<header className="App-header App-block-style"  >
-            <span>
-                <Avatar alt="Jay" src={profilePic} sx={{ width: 150, height:150 }} />
-                <Profile profileData={this.props.profileData} />
-            </span>
-
+            <Typography>
+            <Avatar alt="Jay" src={profilePic} sx={{ width: 150, height:150 }} />
             <Typography className="App-header-text"  >
                 <Typography variant='subtitle1'>
                     {name}
@@ -36,6 +33,9 @@ class Header extends React.Component {
                     {phone}
                 </Typography>
             </Typography>
+            </Typography>
+            <Profile profileData={this.props.profileData} />
+         
         </header>);
     }
 }
