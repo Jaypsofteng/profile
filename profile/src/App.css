@@ -80,9 +80,7 @@
 }
 
 .paragraph {
-  text-shadow: 1px 1px 1px #f3e5e5;
   margin: 0.25em;
-  text-indent: 1em;
   padding-block: inherit;
   padding: 3em;
   text-align: justify;
