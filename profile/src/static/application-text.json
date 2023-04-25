@@ -7,7 +7,7 @@
         "phone": "+1(431)999-0758"
     },
     "profile": {
-        "details": "I am a highly organized, resolute, and motivated professional software engineer with extensive experience in full-stack development, algorithm design, and data analysis. I have a proven track record of delivering high-quality software solutions, focusing on security, performance, and reliability. I am committed to working collaboratively with cross-functional teams to achieve project success and drive business outcomes. I am seeking a long-term position where I can leverage my skills and experience to make meaningful contributions to the development of innovative software solutions."
+        "details": "I am a highly organized, resolute, and motivated professional software engineer with extensive experience in full-stack development, algorithm design, and data analysis. I have a proven track record of delivering high-quality software solutions, focusing on security, performance, and reliability. I am committed to working collaboratively with cross-functional teams to achieve project success and drive excellent business outcomes. I am seeking a position where I can leverage my skills and experience to make meaningful contributions to the development of innovative software solutions."
     },
     "experience": [
         {
@@ -16,7 +16,7 @@
             "start": "March 2023",
             "end":"Current",
             "jobDiscription": [
-                "As a freelance full stack engineer, I am developing web applications for multiple clients using React, NodeJS, TypeScript, MaterialUI, HTML5, CSS, JavaScript, AWS Cloud, Java, and Spring. In this role, I am responsible for creating user-friendly and responsive interfaces that delivered seamless user experiences. I am collaborating closely with clients to understand their needs and translate them into technical specifications. Through this work, I am sharpening my skills in project management, communication, and problem-solving."
+                "As a freelance full stack engineer, I am developing web applications for multiple clients using React, NodeJS, TypeScript, MaterialUI, HTML, CSS, JavaScript, AWS Cloud, Java, and Spring Boot. In this role, I am responsible for creating user-friendly and responsive interfaces that deliver seamless user experiences. I am collaborating closely with clients to understand their needs and translate them into technical specifications. Through this work, I am sharpening my skills in project management, communication, and problem-solving."
             ]
         },
         {
@@ -25,7 +25,7 @@
             "start": "November 2022",
             "end":"March 2023",
             "jobDiscription": [
-                "As Software Developer 2, I worked on end-to-end, full-stack features for my organization's internal website, which manages agriculture business use cases. I utilized Java, Spring, Struts, Oracle SQL, Postgres SQL, Teamcity, Ant, Gradle, Nexus, Git, Jira, HTML, CSS, and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely."
+                "As Software Developer 2, I worked on end-to-end, full-stack features for the organization’s internal websites, which manages agriculture business use cases. I utilized Java, Spring, Spring Boot, Postgres SQL, Ant, Gradle, Nexus, Oracle, Git, Jira, HTML, CSS, JSP and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle steps, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely in a timely manner."
             ]
         },
         {
@@ -34,7 +34,7 @@
             "start": "March 2021",
             "end":"November 2022",
             "jobDiscription": [
-                "As Software Developer, I developed new features for an existing infrastructure, content, and process-oriented proprietary desktop application. Throughout the development process, I utilized Java, Swing, MySQL, Docker, Jenkins, Maven, Nexus, Git, Jira, XML, JSON, BASH, HTML, CSS, and JavaScript for full-stack application development. Additionally, I addressed bug fixes and processes for workflow with regards to software systems. My focus was on ensuring the security, integrity, robustness, and complexity of various software applications and features. I also used Java Spring to supply API-driven back-end microservices."
+                "As Software Developer, I developed new back-end features and new UI designs for multiple web applications which were hosted on intranet as well as on AWS Cloud. The websites were business process-oriented and were the driving force behind the company’s growth. These applications were used by multiple stakeholders throughout the company. In the development process, I used Java, Spring Boot, MySQL Database, HTML, CSS, JavaScript and React for full-stack development. I also used Docker, Jenkins, Maven, Nexus, Git and Jira for building and delivering applications. Additionally, I addressed bug fixes and feature enhancements. My focus was on ensuring good quality, security, integrity, correctness, robustness of various software features. I developed microservices using Spring to supply API-driven back-ends. I also worked on system related features to enhance the applications."
             ]
         },
         {
@@ -43,7 +43,7 @@
             "start": "February 2020",
             "end":"March 2021",
             "jobDiscription": [
-                "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code base in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
+                "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code bases in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
             ]
         }
     ],
@@ -58,7 +58,7 @@
         }
     ],
     "tools": [
-        "Java, Spring Framework, Hibernate, JPA, J2EE, Python, C#, .NET, Entity Framework, MySQL, SQL, PostgreSQL, TensorFlow, Swing Framework, Struts Framework, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, HTML, DHTML, CSS, jQuery, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows"
+        "Java, Spring, Spring Boot, OpenAPI Standards, Swagger, RESTful APIs, GRPC, TCP/IP, TLS, Python Scripting, MySQL, MSSQL, PostgreSQL, Redis, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, TypeScript, MaterialUI, HTML, CSS, SCSS, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows, CD/CI, AWS cloud, Oracle"
     ],
     "skills": [
         "Strong work ethic, Dependable, Self-motivated, Attentive to detail, Effective time management, good teamwork and collaboration skills, Excellent communication skills, Adaptable and quick to learn, Analytical and strategic thinking, Creative problem solver, Customer-focused, Results-driven and goal oriented, Strong leadership and decision-making abilities, Flexibility and openness to new ideas, Ability to work well under pressure and tight deadlines"
