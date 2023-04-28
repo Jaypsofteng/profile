@@ -7,7 +7,7 @@
         "phone": "+1(431)999-0758"
     },
     "profile": {
-        "details": "I am a highly organized, resolute, and motivated professional software engineer with extensive experience in full-stack development, algorithm design, and data analysis. I have a proven track record of delivering high-quality software solutions, focusing on security, performance, and reliability. I am committed to working collaboratively with cross-functional teams to achieve project success and drive excellent business outcomes. I am seeking a position where I can leverage my skills and experience to make meaningful contributions to the development of innovative software solutions."
+        "details": "I am a highly organized, dedicated, motivated, dependable, and adaptable professional software engineer. I have 3+ years of experience working as a full-stack developer. I am committed to working collaboratively with cross-functional teams to achieve project success and drive excellent business outcomes. I am looking for a position where I can leverage my skills and experience to make meaningful contributions to the development of innovative software solutions."
     },
     "experience": [
         {
@@ -16,7 +16,7 @@
             "start": "March 2023",
             "end":"Current",
             "jobDiscription": [
-                "As a freelance full stack engineer, I am developing web applications for multiple clients using React, NodeJS, TypeScript, MaterialUI, HTML, CSS, JavaScript, AWS Cloud, Java, and Spring Boot. In this role, I am responsible for creating user-friendly and responsive interfaces that deliver seamless user experiences. I am collaborating closely with clients to understand their needs and translate them into technical specifications. Through this work, I am sharpening my skills in project management, communication, and problem-solving."
+                "As a freelance full stack engineer, I am developing web applications for clients using React, Node.js, Next.js, TypeScript, Material UI, HTML, CSS, JavaScript, MySQL, AWS Cloud, Java, Spring Boot, Junit, Jest, CircleCI, Docker. In this role, I am responsible for creating user-friendly and responsive end-to-end interfaces that deliver seamless user experiences. I am collaborating closely with clients to understand their technical specifications and translate them into delivered software solutions. I am following agile methodology in each step of development and building innovative solutions for my clients."
             ]
         },
         {
@@ -25,7 +25,7 @@
             "start": "November 2022",
             "end":"March 2023",
             "jobDiscription": [
-                "As Software Developer 2, I worked on end-to-end, full-stack features for the organization’s internal websites, which manages agriculture business use cases. I utilized Java, Spring, Spring Boot, Postgres SQL, Ant, Gradle, Nexus, Oracle, Git, Jira, HTML, CSS, JSP and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle steps, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely in a timely manner."
+                "As Software Developer 2, I worked on end-to-end, full-stack features for the organization’s internal websites, which manages agriculture business use cases. I utilized Node.js, Next.js, Java, Spring Boot, Postgres SQL, Ant, Gradle, Nexus, Oracle, Git, Jira, HTML, CSS, JSP, Junit, Jest and JavaScript for full-stack application development. Throughout the development process, I followed OWASP security principles, SDLC life cycle steps, and agile methodology to ensure that front-end and back-end features were developed efficiently and securely in a timely manner."
             ]
         },
         {
@@ -34,7 +34,7 @@
             "start": "March 2021",
             "end":"November 2022",
             "jobDiscription": [
-                "As Software Developer, I developed new back-end features and new UI designs for multiple web applications which were hosted on intranet as well as on AWS Cloud. The websites were business process-oriented and were the driving force behind the company’s growth. These applications were used by multiple stakeholders throughout the company. In the development process, I used Java, Spring Boot, MySQL Database, HTML, CSS, JavaScript and React for full-stack development. I also used Docker, Jenkins, Maven, Nexus, Git and Jira for building and delivering applications. Additionally, I addressed bug fixes and feature enhancements. My focus was on ensuring good quality, security, integrity, correctness, robustness of various software features. I developed microservices using Spring to supply API-driven back-ends. I also worked on system related features to enhance the applications."
+                "As Software Developer, I developed new back-end features and new UI designs for multiple web applications which were hosted on intranet as well as on AWS Cloud. The websites I worked on were business process-oriented and were the driving force behind the company’s growth. These applications were used by multiple stakeholders throughout the company. In the development process, I used Node.js, Next.js, Java, Spring Boot, MySQL Database, HTML, CSS, JavaScript, Junit, Jest and React for full-stack development. I also used Docker, Jenkins, Maven, Nexus, Git and Jira for building and delivering applications. Additionally, I addressed bug fixes and feature enhancements. My focus was on ensuring good quality, security, integrity, correctness, robustness of various software features. I also worked on system related features to enhance the applications."
             ]
         },
         {
@@ -43,7 +43,7 @@
             "start": "February 2020",
             "end":"March 2021",
             "jobDiscription": [
-                "I developed complex data structures and algorithms for data generation of lottery tickets. Throughout the project, I maintained, developed, debugged, and tested complex code bases in C++, C. This work helped me gain a deeper understanding of performance and production-oriented software. As part of a team, I efficiently managed and contributed to deadline-driven development. Additionally, I analyzed data of various complexity and successfully fixed issues with respect to data integrity, distribution, and correctness."
+                "I developed data access APIs for lottery tickets using Node.js, Next.js, Java, Spring Boot, Junit, Jest and MySQL. I maintained, developed, debugged, and tested APIs. As part of a team, I efficiently managed and contributed to deadline-driven development. This work helped me gain a deeper understanding of performance and production-oriented software."
             ]
         }
     ],
@@ -58,35 +58,35 @@
         }
     ],
     "tools": [
-        "Java, Spring, Spring Boot, OpenAPI Standards, Swagger, RESTful APIs, GRPC, TCP/IP, TLS, Python Scripting, MySQL, MSSQL, PostgreSQL, Redis, Perl Scripting, Bash Scripting, JavaScript, React, NodeJS, TypeScript, MaterialUI, HTML, CSS, SCSS, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows, CD/CI, AWS cloud, Oracle"
+        "Java, Spring, Spring Boot, Next.js, Open-API Standards, Swagger, RESTful APIs, GRPC, TCP/IP, TLS, Python Scripting, MySQL, MSSQL, Postgres, Redis, Perl Scripting, Bash Scripting, JavaScript, React, Node.js, TypeScript, Material UI, HTML, CSS, SCSS, Docker, Git, Jira, Jenkins, Nexus, Linux, Windows, CD/CI, AWS cloud, Oracle"
     ],
     "skills": [
-        "Strong work ethic, Dependable, Self-motivated, Attentive to detail, Effective time management, good teamwork and collaboration skills, Excellent communication skills, Adaptable and quick to learn, Analytical and strategic thinking, Creative problem solver, Customer-focused, Results-driven and goal oriented, Strong leadership and decision-making abilities, Flexibility and openness to new ideas, Ability to work well under pressure and tight deadlines"
+        "Dependable, Self-motivated, Attentive to detail, Effective time manager, teamwork and collaboration, Excellent communication skills, Adaptable and quick to learn, Analytical and strategic thinker, Creative problem solver, Customer-focused, Results-driven and goal-oriented, Strong leadership and decision-making abilities, Flexible and open towards new ideas, Ability to work well under pressure and tight deadlines"
     ],
     "projects": [
         {
             "name": "Digital Library System",
-            "discription": "I implemented this web application that efficiently manages a digital library. The application enables users to keep track of books they want to read, are currently reading, or have already read. To develop the application, I utilized React.js to create an intuitive user interface that allows for seamless navigation. Additionally, I incorporated an open-sourced back-end API to ensure scalability and sustainability.",
+            "discription": "I implemented this web application that efficiently manages a digital book library. The application enables users to keep track of books they want to read, are currently reading, or have already read and let’s them manage books. To develop the application, I used React.js to create an intuitive user interface that allows for seamless navigation. Additionally, I incorporated an open-sourced back-end API to ensure scalability and sustainability.",
             "link": "https://github.com/Jaypsofteng/Books-Tracker.git"
         },
         {
             "name": "Webapp-Scheduler",
-            "discription": "I have designed and created a web application called Webapp-Scheduler, which facilitates efficient scheduling of courses and programs. This application enables users to perform CRUD operations for both programs and courses, and provides individual views for each. I implemented a calendar functionality that allows users to select holidays for the timeline, which enables the auto-allocation of programs and courses. In order to create a responsive and user-friendly front-end, I utilized Razor, Bootstrap, CSS, and JavaScript. For the back-end, I utilized C#, SQL, and LINQ to develop the necessary functionality and ensure data consistency. Overall, this project allowed me to demonstrate my skills in both front-end and back-end web development, as well as my ability to create practical solutions to complex problems.",
+            "discription": "I have designed and created a web application called Webapp-Scheduler, which helps efficient scheduling of courses and programs of a trade’s college. This application enables users to perform CRUD operations for both programs and courses and provides individual views for each. I implemented a calendar functionality that allows users to see the timeline of courses and programs and allows auto-scheduling of programs and courses based on certain requirements. To create a responsive and user-friendly front-end, I utilized Razor, Bootstrap, CSS, and JavaScript. For the back end, I used C#, SQL, and LINQ to develop the necessary functionality and ensure data consistency.",
             "link": "https://github.com/Jaypsofteng/Webapp-Scheduler.git"
         },
         {
             "name": "Resume-Portal",
-            "discription": "I engineered an internship portal for Mitt College's Internship Program, which serves both students and employers. The project required me to create user profiles for students, employers, and instructors, and develop functionalities specific to each user type. I utilized Razor, Bootstrap, CSS, and JavaScript to create a responsive and user-friendly front-end, while utilizing C#, SQL, and LINQ for the back-end to ensure data consistency and develop necessary functionality. Students can sign up and apply for internships based on their programs, while employers can create internship postings and view a list of students that meet their internship requirements. Instructors have the ability to approve new students to their programs, add new employer profiles, and recommend internships by sending notifications to students and employers. Overall, this project allowed me to showcase my proficiency in full-stack web development and ability to create practical solutions to complex problems.",
+            "discription": "I engineered an internship portal for Mitt College's Internship Program, which serves both students and employers. The project required me to create user profiles for students, employers, and instructors, and develop functionalities specific to each user type. I used Razor, Bootstrap, CSS, and JavaScript to create a responsive and user-friendly front-end, while using C#, SQL, and LINQ for the back end to ensure data consistency and develop necessary functionality. Students can sign up and apply for internships based on their programs, while employers can create internship postings and view a list of students that meet their internship requirements. Instructors can approve new students to their programs, add new employer profiles, and recommend internships by sending notifications to students and employers.",
             "link": "https://github.com/Jaypsofteng/Resume-Portal.git"
         },
         {
             "name": "Mind Game",
-            "discription": "Mind-game is a fun and challenging game that I designed to test and improve a player's memory and recall abilities. The game is composed of multiple levels, with each level containing a set of tiles that have different symbols on them arranged in a 4x4 grid. The player is given a few seconds to memorize the placement of the symbols when they click on the tiles, before they are hidden again. The objective of the game is to select 2 consecutive tiles with the same symbol, while completing the game before running out of life (stars). Mind-game also includes a scoring system that awards points based on the number of moves taken to complete the game. Overall, Mind-game is a challenging and entertaining game that tests a player's memory and concentration skills.",
+            "discription": "Mind-game is a fun and challenging game that I designed to evaluate and improve a player's memory and recall abilities. The game is composed of multiple levels, with each level having a set of tiles that have different symbols on them arranged in a 4x4 grid. The player is given a few seconds to memorize the placement of the symbols when they click on the tiles before they are hidden again. This game can be played on following link.",
             "link": "https://jaypsofteng.github.io/Mind-Game/"
         },
         {
             "name": "Chess Game",
-            "discription": "I developed a multiplayer online chess game that is hosted on GitHub and offers users a seamless and engaging gaming experience. I built the game entirely with JavaScript, which allowed me to showcase the power and versatility of this programming language. The game includes robust features such as game logic, multiplayer capabilities, and an intuitive user interface, all of which were designed with the goal of providing an immersive gaming experience.",
+            "discription": "I developed an online chess game that is hosted on GitHub and offer users a seamless and engaging gaming experience. I built the game entirely with JavaScript, which allowed me to highlight the power and versatility of JavaScript. The game includes robust features such as game logic, multiplayer capabilities, and an intuitive user interface, all of which were designed with the goal of providing an immersive gaming experience. This game can be played on following link.",
             "link": "https://jaypsofteng.github.io/Chess/"
         }
     ]
